@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/roeenevo/Dev/Training/ArchProgress/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/roeenevo/Dev/Training/ArchProgress/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.1_c326ae6a632258be844180c8a50eeffef4b00421.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/roeenevo/Dev/Training/ArchProgress/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/roeenevo/Dev/Training/ArchProgress/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.1_2b029597e775ae4d037e8c98345e7ff7688bad29.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/roeenevo/Dev/Training/ArchProgress/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/roeenevo/Dev/Training/ArchProgress/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.1_4beaf63d31d8bbadf38df15787dd9049d2dcc4f2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/roeenevo/Dev/Training/ArchProgress/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/roeenevo/Dev/Training/ArchProgress/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_41daa5d70cfc32d630f6b41349ca37683eacb1c7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/roeenevo/Dev/Training/ArchProgress/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/roeenevo/Dev/Training/ArchProgress/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_976686a6543f023b2afa5141faa131c42da3e7f4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/roeenevo/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/roeenevo/Dev/Training/ArchProgress/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.1_e2521007dbae8c53ed5ea136b83253ebbabb743c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/roeenevo/Dev/Training/ArchProgress/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/roeenevo/Dev/Training/ArchProgress/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.1_cb694cde16953f0451dc8275087d18da0255ce63.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/roeenevo/Dev/Training/ArchProgress/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/roeenevo/Dev/Training/ArchProgress/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.1_fc4ad57ae634f4771104b3116ad3a1859f1b5683.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/roeenevo/Dev/Training/ArchProgress/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/roeenevo/Dev/Training/ArchProgress/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.1_bacc6cfdec34aaa0eff4d94ad03f85d03180195c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/roeenevo/Dev/Training/ArchProgress/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/roeenevo/Dev/Training/ArchProgress/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_604a97aaa1295d9827f9f9bdff816d9ae6e899ee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/roeenevo/Dev/Training/ArchProgress/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/roeenevo/Dev/Training/ArchProgress/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_7ffa7a5d54404f4c29600edcd1b0c06b077318cc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/roeenevo/Dev/Training/ArchProgress/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/roeenevo/Dev/Training/ArchProgress/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.1_b30a0f782942e0860b0ddbe8310bb400b2153d91.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/roeenevo/Dev/Training/ArchProgress/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/roeenevo/Dev/Training/ArchProgress/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_b6bb3738293c3ff345aaffc96cdd8dc89ba4dfd4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/roeenevo/Dev/Training/ArchProgress/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/roeenevo/Dev/Training/ArchProgress/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.1_51dec24fbc89de4a873590ea4d5a4b896ac7fdd9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/roeenevo/Dev/Training/ArchProgress/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/roeenevo/Dev/Training/ArchProgress/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.1_50b5d1a56e43e4bec8bf81e37ea4c1a7ab6dbdd4.jar" />
+    </item>
+
+</items>
